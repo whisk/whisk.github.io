@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First steps with RabbitMQ (in Russian)"
+title:  "First steps with RabbitMQ presentation slides (in Russian)"
 date:   2017-02-01 00:00:10 +0300
 ---
 
